@@ -281,7 +281,7 @@ Insights
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                  📊 ANALYTICS DASHBOARD                      ║
+║                  📊 ANALYTICS DASHBOARD                     ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║   SQL              ████████████████████░░                    ║
@@ -292,7 +292,7 @@ Insights
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   🔎 ANALYZE       →      📊 VISUALIZE      →     💡 INSIGHT ║
+║   🔎 ANALYZE       →      📊 VISUALIZE      →   💡 INSIGHT ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -360,10 +360,10 @@ Insights
 ## 🤝 LET'S CONNECT
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshiltyagi/">
+  <a href="https://www.linkedin.com/in/harshil-tyagi-3760a3423/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tyagiharshil580@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
